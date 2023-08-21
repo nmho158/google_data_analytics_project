@@ -44,6 +44,7 @@ I am responsible for responding to the first question above. In my case, I will 
 This is the second phase of data analysis, in which data analysts collect and store data. In this preparation phase, data analysts strive for ROCCC data, where ROCCC stands for reliable, original, comprehensive, current, and cited. I will investigate the data source and data organization to ensure that data is protected and learn if data is ROCCC.
 
 **Data Source** 
+
 I use [Cyclistic’s historical trip data](https://divvy-tripdata.s3.amazonaws.com/index.html) to analyze and identify trends.  The data has been made available by Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement).
 
 Note that data-privacy issues prohibit from using riders’ personally identifiable information. This means that I am not able to connect pass purchases to credit card numbers to determine if casual riders live in the
@@ -51,7 +52,9 @@ Cyclistic service area or if they have purchased multiple single passes.
 
 I consider the data to be reliable, original, and properly cited. It is helpful to know that the privacy of consumers is protected, as public data users cannot access credit card and personal information.
 
-**
+**Data Exploration**
+
+As a data analyst, I need to assess data credibility, types, organization, and structures in this preparation phase. The data comprises of 
 
 
 
