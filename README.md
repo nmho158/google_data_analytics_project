@@ -30,14 +30,17 @@ I am assuming a position as a junior data analyst for the marketing team and am 
 ## Data Analysis Phases 
 ### Ask
 
-This is the initial phase of data analysis, which involves defining the problem while acquiring a comprehensive understanding of stakeholder expectations. The primary **business task** would be to devise marketing strategies to convert casual riders to annual members. 
+This is the initial phase of data analysis, which involves defining the problem while acquiring a comprehensive understanding of stakeholder expectations. The primary **business task** in this case study would be to devise marketing strategies to convert casual riders to annual members. 
 
 Three questions will guide the future marketing program:
 1. How do annual members and casual riders use Cyclistic bikes differently?
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
 
-I am responsible for responding to the first question above. In my case, I will divide the first question into two smaller parts so that my thought process is easily followed by the team:  What are the differences between casual riders and membership riders, and why are these distinctions present? 
+I am responsible for responding to the first question above. In my case, I will divide the first question into two smaller parts so that my thought process is easily followed by the team:  What are the differences between casual riders and membership riders, and how can my insights drive business decisions? My primary stakeholders would be Cyclistics's customers, Moreno - the director of the marketing team, the company's financial analysts, and Cyclistic's board of directors. 
+
+### Prepare
+
 
 
 
