@@ -15,5 +15,9 @@ Google Data Analytics Capstone Project
 
 
 ## Introduction
+This is the final project for the Google Professional Certificate Data Analytics . The certification equips aspiring data analysts with the knowledge and skills required to obtain insights from data. I am resolving this case study by employing all six phases of the analysis process: Ask, Prepare, Process, Analyze, Share, and Act. 
+
+
+
 
 
