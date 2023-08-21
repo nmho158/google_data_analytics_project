@@ -28,6 +28,8 @@ The Cyclistic finance analysts believe that it is more profitable to maximize th
 I am assuming a position as a junior data analyst for the marketing team and am participating in order to handle this issue. This is also my opportunity to demonstrate my data analysis skills. 
 
 ## Data Analysis Phases 
+### Ask
+
 
 
 
