@@ -6,7 +6,7 @@ Google Data Analytics Capstone Project
 1. [Introduction](https://github.com/nmho158/google_data_analytics_project_081823/edit/main/README.md#introduction)
 2. [Scenario](https://github.com/nmho158/google_data_analytics_project_081823/edit/main/README.md#scenario)
 3. [Data Analysis Phases](https://github.com/nmho158/google_data_analytics_project#data-analysis-phases)
-   + Ask
+   + [Ask](https://github.com/nmho158/google_data_analytics_project/tree/main#ask)
    + Prepare
    + Process
    + Analyze
